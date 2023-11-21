@@ -59,6 +59,11 @@
         padding-right: .4em;
     }
 
+    /*CAROUSEL*/
+    .carousel{
+        margin-top: 90px; /*margen de 90px por estar el Nav en position Fixed*/
+    }
+
     /*INICIO OFFCANCAS*/
     .offcanvas-header{
         background: #fff159!important;
@@ -375,7 +380,6 @@
     /*********************************************************************************************/
     /******************************************** FIN SECCION ARTICULOS OFERTAS*******************/
     /*********************************************************************************************/
-    
 
 
 }
